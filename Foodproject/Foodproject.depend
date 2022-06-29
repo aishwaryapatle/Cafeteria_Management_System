@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1651379926 source:d:\isc\practice\foodproject\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1651584608 source:f:\asterisc c programming\foodproject\main.c
+	<stdio.h>
+	<stdlib.h>
+
