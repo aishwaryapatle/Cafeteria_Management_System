@@ -1,6 +1,6 @@
 # Cafeteria_Management_System
 
-Cafeteria Management System is a C programming based project which take the orders and generate bill accordingly.
+Cafeteria management system is specifically developed to determine the total bill at a cafe and add ordered item's record. This system develops the fundamental principle of storing and producing ordered item info. Staff can join up as a system admin in this system, giving them complete access to the system for keeping daily records. The entire project was created in the 'C' programming language, and several variables and strings were employed in its creation so that users will find it simple to use and comprehend. The project has no error or warning content. The design is so straightforward that users should have no trouble using and navigating it.
 
 ### How the modules work  
 --- 
